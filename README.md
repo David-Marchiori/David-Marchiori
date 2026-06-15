@@ -34,16 +34,15 @@ Construtor de aplicações web completas, do backend ao frontend.
 
 ---
 
-### 📊 GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Marchiori&show_icons=true&theme=tokyonight&hide_border=true)
+### 🔥 Streak
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Marchiori&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=David-Marchiori&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-### 🔥 Streak
+### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=David-Marchiori&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Marchiori&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
